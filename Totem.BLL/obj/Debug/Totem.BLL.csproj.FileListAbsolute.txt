@@ -1,0 +1,12 @@
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.BLL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.DAL.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.Util.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.VO.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.DAL.pdb
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.Util.pdb
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\bin\Debug\Totem.VO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\obj\Debug\Totem.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\obj\Debug\Totem.BLL.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.BLL\obj\Debug\Totem.BLL.pdb

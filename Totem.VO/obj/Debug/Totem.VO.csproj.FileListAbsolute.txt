@@ -1,0 +1,5 @@
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.VO\bin\Debug\Totem.VO.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.VO\bin\Debug\Totem.VO.pdb
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.VO\obj\Debug\Totem.VO.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.VO\obj\Debug\Totem.VO.dll
+C:\Users\Danilo\Documents\Visual Studio 2015\Projects\DUOC.TOTEM\Totem.VO\obj\Debug\Totem.VO.pdb
